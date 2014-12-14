@@ -2,6 +2,8 @@ Region,HT Name, HT LAT, HT LONG, GEO NAME, GEO LAT, GEO LONG
 Britannia, Tamia, 25, 59 20, Tamia, 25, 59 20
 Britannia, Eborakon, 20, 57 20, Eboracum, 20, 57 20
 Britannia, Londinion, 20, 54, Londinium, 20, 54
+Britannia,Kamoulodonon,21,55,Camulodunum,21,55
+Britannia,Katouraktonion,20,58,Caturactonium,20,58
 Italy, Neopolis, 40, 40 35, Neopolis, 40, 40 55
 Italy, Rome, 36 40, 41 50, Rome, 36 40, 41 40
 Italy, Rabenna, 34 40, 44, Ravenna, 34 40, 40
@@ -31,3 +33,11 @@ Mesopotamia,Nessibis,75 30,37 45,Nisibis,75 10,37 30
 Mesopotamia,Aidessa,72 30,37 39,Edessa,72 30,37 30
 Mesopotamia,Nikephorion,73 5,35 30,Nicephorium,73 5,35 20
 Mesopotamia,Lambana,77 50,34 20,Lambana,77 50,36 30
+Egypt,Paraitonion,57,31 10,Paraetonium,57,31 10
+Egypt,Alexandria,60 30,31,Alexandria,60 30,31
+Egypt,Pelousion,63 30,31 15,Pelusium City,63 15, 31 10
+Egypt,Ptolemaisermou,61 45,27 10,Ptolemais, 61 40,29 20
+Egypt,Soene,62,23 45,Syene,62,23 50
+Cyprus,Salamis,66 20,35 30,Salamis,66 40,35 20
+Cyprus,Amathous,65 45,35,Amathus,65 45,35
+Dacia,Zarmizegethousa,57 30,45 20,Zarmizegethusa Regia,47 50,45 15
